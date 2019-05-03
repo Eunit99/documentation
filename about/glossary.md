@@ -38,3 +38,6 @@ Admins of [Fiscal Hosts](../hosts/) manage the entities that provide the bank ac
 
 Attendees are users who register to a Collective's event. They often arrive through a direct link provided by the event organizers. They want a smooth, hassle-free experience, clear information about the event, and ideally a pathway to stay in touch or become Backers.
 
+### Open Collective Chapter
+
+An Open Collective Chapter is a regional or topical version of Open Collective. For example, we have [Open Collective Paris](https://opencollective.com/paris) that is dedicated to foster an ecosystem of open collectives in Paris. We also have the [Open Source Collective](https://opencollective.com/opensource) that enables open collectives for open source communities all around the world.
